@@ -1330,24 +1330,24 @@ coverage/
 📌 Final Configuration Summary
 
 ╔══════════════════════════════════════════════╗
-║          STARBUCKS DEVOPS PROJECT           ║
+║          STARBUCKS DEVOPS PROJECT            ║
 ╠══════════════════════════════════════════════╣
-║ GitHub        → Source Code                 ║
-║ Jenkins       → CI/CD                       ║
-║ Node.js       → React Build                 ║
-║ Docker        → Containerization            ║
-║ Docker Hub    → Image Registry              ║
-║ AWS EC2       → Deployment Server           ║
+║ GitHub        → Source Code                  ║
+║ Jenkins       → CI/CD                        ║
+║ Node.js       → React Build                  ║
+║ Docker        → Containerization             ║
+║ Docker Hub    → Image Registry               ║
+║ AWS EC2       → Deployment Server            ║
 ╠══════════════════════════════════════════════╣
-║ Jenkins       → Port 8080                   ║
+║ Jenkins       → Port 8080                    ║
 ║ React         → Container Port 3000          ║
-║ Application   → EC2 Port 8081               ║
-║ Docker Map    → 8081:3000                   ║
+║ Application   → EC2 Port 8081                ║
+║ Docker Map    → 8081:3000                    ║
 ╠══════════════════════════════════════════════╣
 ║ Docker Image                                 ║
 ║ rahmanuddinmd17/starbucks-app                ║
 ║                                              ║
-║ Jenkins Credential ID                       ║
+║ Jenkins Credential ID                        ║
 ║ dockerhub-creds                              ║
 ║                                              ║
 ║ Jenkins NodeJS Tool                          ║
